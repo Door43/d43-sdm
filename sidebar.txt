@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sdm:home|Door43 (sdm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sdm|d43-sdm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sdm/archive/master.zip|d43-sdm.zip]]
+
+**Recent Changes**
+{{changes>ns = sdm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sdm|Ethnologue data]]
+
